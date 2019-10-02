@@ -1,5 +1,7 @@
 # mwl88.github.io
 
+## Blog entries
+
 <ul>
   {% for post in site.posts %}
     <li>
